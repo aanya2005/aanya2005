@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aanya! 👋
 
-<!--
-**aanya2005/aanya2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS @ UC Irvine | AI + Biology + Business  
+🧠 Exploring HealthAI, EdTech & Computer Vision  
+🧪 Researching LLMs in education & plankton detection with NASA PACE  
+💡 Co-founder of [CareTech](https://caretechuci.vercel.app/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+- **Rust Web Engine** – Custom built lightweight web server focused on routing, static file serving, and memory-safe systems programming
+
+---
+
+### Fun Facts
+- I love sketching & dancing  
+- Always open to new ideas — DM me and let’s build something!
+
