@@ -5,6 +5,7 @@
 🧪 Researching LLMs in education & plankton detection with NASA PACE  
 💡 Co-founder of [CareTech](https://caretechuci.vercel.app/)
 
+Website: https://aanya-portfolio-two.vercel.app/
 ---
 
 ### Current Projects
