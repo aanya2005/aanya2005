@@ -3,46 +3,48 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF69B4,50:EF93C4,100:7B2CBF&text=Welcome%20to%20My%20GitHub&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=[YOUR_TAGLINE]&descAlignY=58&animation=fadeIn"
+    srcset="https://raw.githubusercontent.com/aanya2005/aanya2005/main/art/header-dark.png"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:F8BBD0,50:EF93C4,100:FF69B4&text=Welcome%20to%20My%20GitHub&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=[YOUR_TAGLINE]&descAlignY=58&animation=fadeIn"
+    srcset="https://raw.githubusercontent.com/aanya2005/aanya2005/main/art/header-light.png"
   />
   <img
     width="100%"
-    alt="GitHub profile banner"
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:F8BBD0,50:EF93C4,100:FF69B4&text=Welcome%20to%20My%20GitHub&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=[YOUR_TAGLINE]&descAlignY=58&animation=fadeIn"
+    src="https://raw.githubusercontent.com/aanya2005/aanya2005/main/art/header-light.png"
+    alt="Logo for Aanya A"
   />
 </picture>
 
-<h1>Hey there, I'm [YOUR_NAME] 👋</h1>
+<br/>
+
+<h1>Hey there, I'm Aanya 👋</h1>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=[YOUR_ROLE];[YOUR_SPECIALTY];Building+beautiful+and+meaningful+products;Always+learning%2C+creating%2C+and+growing"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=Open+Source+Enthusiast!;Software+Engineer+%26+AI+Builder;Building+thoughtful+and+impactful+products;Always+learning%2C+creating%2C+and+growing"
     alt="Animated typing introduction"
   />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/[YOUR_USERNAME]?tab=followers">
+<a href="https://github.com/aanya2005?tab=followers">
   <img
-    src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=C84B8F&color=EF93C4"
+    src="https://img.shields.io/github/followers/aanya2005?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=C84B8F&color=EF93C4"
     alt="GitHub followers"
   />
 </a>
 &nbsp;
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories&sort=stargazers">
+<a href="https://github.com/aanya2005?tab=repositories&sort=stargazers">
   <img
-    src="https://img.shields.io/github/stars/[YOUR_USERNAME]?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=C84B8F&color=F8BBD0"
+    src="https://img.shields.io/github/stars/aanya2005?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=C84B8F&color=F8BBD0"
     alt="GitHub stars"
   />
 </a>
 &nbsp;
 <img
-  src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&style=for-the-badge&color=FF69B4"
+  src="https://komarev.com/ghpvc/?username=aanya2005&label=Profile%20Views&style=for-the-badge&color=FF69B4"
   alt="Profile views"
 />
 
@@ -62,35 +64,37 @@
   <tr>
     <td width="65%" valign="top">
 
-### Hi, I'm [YOUR_NAME]!
+### Hi, I'm Aanya!
 
-💻 I’m a **[YOUR_ROLE]** focused on **[YOUR_SPECIALTY]**.
+💻 I’m a **software engineer and AI enthusiast** passionate about building thoughtful, user-centered technology.
 
-🌱 I’m currently learning **[WHAT_YOU_ARE_LEARNING]**.
+🌸 I’m an **open-source enthusiast** who enjoys contributing to meaningful projects and learning from developer communities.
 
-🚀 I enjoy building **[WHAT_YOU_BUILD]**.
+🤖 I’m interested in **artificial intelligence, machine learning, NLP, large language models, and prompt engineering**.
 
-🎯 My current goal is **[YOUR_CURRENT_GOAL]**.
+🌐 I enjoy creating **full-stack applications, AI-powered workflows, and intuitive digital experiences**.
 
-🤝 I’m open to collaborating on **[COLLABORATION_INTERESTS]**.
+🛠️ I work across software engineering, product design, cloud infrastructure, and applied AI.
 
-💬 Ask me about **[TOPICS_YOU_KNOW]**.
+🌱 I’m currently growing my skills in **open-source development, cloud technologies, deep learning, and scalable system design**.
 
-📍 Based in **[YOUR_LOCATION]**.
+🤝 I’m open to collaborating on **open-source, AI, machine-learning, and social-impact projects**.
 
-⚡ Fun fact: **[YOUR_FUN_FACT]**.
+📫 Reach me at **aanyaa2@uci.edu**.
 
 <br/>
 
-> [YOUR_BIO_OR_PERSONAL_MOTTO]
+> Turning curiosity into code and ideas into meaningful products.
 
   </td>
   <td width="35%" align="center" valign="middle">
-    <img
-      width="280"
-      src="[YOUR_ABOUT_IMAGE_OR_GIF_URL]"
-      alt="[YOUR_NAME] illustration"
-    />
+    <a href="https://github.com/aanya2005">
+      <img
+        width="250"
+        src="https://github.com/aanya2005.png"
+        alt="Aanya's GitHub profile picture"
+      />
+    </a>
   </td>
   </tr>
 </table>
@@ -103,41 +107,53 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-
 <img
-  src="https://skillicons.dev/icons?i=[LANGUAGE_1],[LANGUAGE_2],[LANGUAGE_3],[LANGUAGE_4],[LANGUAGE_5]&theme=light"
-  alt="Programming languages"
+  src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,react,nodejs,tensorflow,git,github,docker,kubernetes,linux,aws,azure,postgres,mysql,mongodb,vscode,figma,notion&perline=11&theme=dark"
+  alt="Aanya's technical skills"
 />
 
 <br/><br/>
 
-### Frameworks & Libraries
-
 <img
-  src="https://skillicons.dev/icons?i=[FRAMEWORK_1],[FRAMEWORK_2],[FRAMEWORK_3],[FRAMEWORK_4],[FRAMEWORK_5]&theme=light"
-  alt="Frameworks and libraries"
+  src="https://img.shields.io/badge/CI%2FCD-C84B8F?style=for-the-badge&logo=githubactions&logoColor=white"
+  alt="CI/CD"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/LLMs-EF93C4?style=for-the-badge&logo=openai&logoColor=white"
+  alt="Large Language Models"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/Prompt%20Engineering-FF69B4?style=for-the-badge&logo=openai&logoColor=white"
+  alt="Prompt Engineering"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/NLP-C84B8F?style=for-the-badge&logo=huggingface&logoColor=white"
+  alt="Natural Language Processing"
 />
 
 <br/><br/>
 
-### Tools & Platforms
-
 <img
-  src="https://skillicons.dev/icons?i=[TOOL_1],[TOOL_2],[TOOL_3],[TOOL_4],[TOOL_5],[TOOL_6]&theme=light"
-  alt="Tools and platforms"
+  src="https://img.shields.io/badge/Scikit--Learn-EF93C4?style=for-the-badge&logo=scikitlearn&logoColor=white"
+  alt="Scikit-Learn"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/Deep%20Learning-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white"
+  alt="Deep Learning"
+/>
+&nbsp;
+<img
+  src="https://img.shields.io/badge/NoSQL-C84B8F?style=for-the-badge&logo=mongodb&logoColor=white"
+  alt="NoSQL"
 />
 
 </div>
 
 <br/>
-
-<!--
-  Skill Icons examples:
-  Languages: python,js,ts,java,cpp,c,cs,go,rust,kotlin,swift
-  Frameworks: react,nextjs,nodejs,express,django,flask,fastapi,tailwind
-  Tools: git,github,docker,aws,gcp,azure,vscode,figma,postman,mongodb,mysql
--->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -146,30 +162,60 @@
 ## 📊 GitHub Analytics
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&bg_color=0D1117&ring_color=FF69B4"
-  alt="[YOUR_NAME]'s GitHub statistics"
+  width="90%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aanya2005&theme=radical"
+  alt="Aanya's GitHub profile summary"
+  loading="lazy"
 />
+
+<br/><br/>
+
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&hide_border=true&title_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"
-  alt="[YOUR_NAME]'s most used languages"
+  width="44%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aanya2005&theme=radical"
+  alt="Aanya's repositories by language"
+  loading="lazy"
+/>
+&nbsp;
+<img
+  width="44%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aanya2005&theme=radical"
+  alt="Aanya's most committed languages"
+  loading="lazy"
+/>
+
+<br/><br/>
+
+<img
+  width="44%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aanya2005&theme=radical"
+  alt="Aanya's GitHub statistics"
+  loading="lazy"
+/>
+&nbsp;
+<img
+  width="44%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aanya2005&theme=radical&utcOffset=-7"
+  alt="Aanya's productive coding time"
+  loading="lazy"
 />
 
 <br/><br/>
 
 <img
   width="75%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&hide_border=true&background=0D1117&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0"
-  alt="[YOUR_NAME]'s GitHub contribution streak"
+  src="https://streak-stats.demolab.com?user=aanya2005&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4"
+  alt="Aanya's GitHub contribution streak"
+  loading="lazy"
 />
 
 <br/><br/>
 
 <img
   width="98%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=0D1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=EF93C4&hide_border=true&custom_title=Contribution%20Activity"
-  alt="[YOUR_NAME]'s GitHub contribution activity graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=aanya2005&bg_color=141321&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=EF93C4&hide_border=true&custom_title=Contribution%20Activity"
+  alt="Aanya's GitHub contribution activity graph"
+  loading="lazy"
 />
 
 </div>
@@ -183,12 +229,12 @@
 ## 🐍 Contribution Snake
 
 <!--
-  This image is generated by a GitHub Action.
+  CONTRIBUTION SNAKE SETUP
 
-  Create this workflow file:
+  Create this file:
   .github/workflows/snake.yml
 
-  Example workflow:
+  Add the following workflow:
 
   name: Generate Contribution Snake
 
@@ -209,18 +255,19 @@
       timeout-minutes: 10
 
       steps:
-        - name: Generate snake animation
+        - name: Generate contribution snake
           uses: Platane/snk/svg-only@v3
           with:
             github_user_name: ${{ github.repository_owner }}
             outputs: |
-              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake.svg?color_snake=#FF69B4&color_dots=#EBEDF0,#F8BBD0,#EF93C4,#FF69B4,#C84B8F
               dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF69B4&color_dots=#161B22,#54203F,#A83F7D,#EF93C4,#F8BBD0
 
-        - name: Publish snake animation
+        - name: Publish contribution snake
           uses: crazy-max/ghaction-github-pages@v4
           with:
             build_dir: dist
+            branch: output
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
@@ -228,16 +275,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/aanya2005/aanya2005/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/aanya2005/aanya2005/output/github-contribution-grid-snake.svg"
   />
   <img
     width="100%"
-    alt="Contribution snake animation"
-    src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/aanya2005/aanya2005/output/github-contribution-grid-snake.svg"
+    alt="Aanya's contribution snake animation"
   />
 </picture>
 
@@ -251,42 +298,21 @@
 
 ## 🌐 Connect With Me
 
-<a href="[YOUR_LINKEDIN_URL]" target="_blank">
+<a href="https://www.linkedin.com/in/aanya-agrawal-uci-cs/">
   <img
     src="https://img.shields.io/badge/LinkedIn-C84B8F?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 &nbsp;
-<a href="[YOUR_X_URL]" target="_blank">
+<a href="https://github.com/aanya2005">
   <img
-    src="https://img.shields.io/badge/X-EF93C4?style=for-the-badge&logo=x&logoColor=white"
-    alt="X"
+    src="https://img.shields.io/badge/GitHub-EF93C4?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </a>
 &nbsp;
-<a href="[YOUR_INSTAGRAM_URL]" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
-&nbsp;
-<a href="[YOUR_TIKTOK_URL]" target="_blank">
-  <img
-    src="https://img.shields.io/badge/TikTok-C84B8F?style=for-the-badge&logo=tiktok&logoColor=white"
-    alt="TikTok"
-  />
-</a>
-&nbsp;
-<a href="[YOUR_YOUTUBE_URL]" target="_blank">
-  <img
-    src="https://img.shields.io/badge/YouTube-EF93C4?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="YouTube"
-  />
-</a>
-&nbsp;
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:aanyaa2@uci.edu">
   <img
     src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
@@ -297,24 +323,14 @@
 
 ### 💖 Thanks for visiting my profile!
 
-<i>Let’s connect, collaborate, and create something amazing.</i>
+<i>Let’s connect, collaborate, and create something meaningful.</i>
 
 <br/><br/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7B2CBF,50:EF93C4,100:FF69B4"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:F8BBD0,50:EF93C4,100:FF69B4"
-  />
-  <img
-    width="100%"
-    alt="Pink waving footer"
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:F8BBD0,50:EF93C4,100:FF69B4"
-  />
-</picture>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:F8BBD0,50:EF93C4,100:FF69B4"
+  alt="Pink waving footer"
+/>
 
 </div>
