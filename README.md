@@ -228,50 +228,6 @@
 
 ## 🐍 Contribution Snake
 
-<!--
-  CONTRIBUTION SNAKE SETUP
-
-  Create this file:
-  .github/workflows/snake.yml
-
-  Add the following workflow:
-
-  name: Generate Contribution Snake
-
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-    push:
-      branches:
-        - main
-
-  permissions:
-    contents: write
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      timeout-minutes: 10
-
-      steps:
-        - name: Generate contribution snake
-          uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg?color_snake=#FF69B4&color_dots=#EBEDF0,#F8BBD0,#EF93C4,#FF69B4,#C84B8F
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF69B4&color_dots=#161B22,#54203F,#A83F7D,#EF93C4,#F8BBD0
-
-        - name: Publish contribution snake
-          uses: crazy-max/ghaction-github-pages@v4
-          with:
-            build_dir: dist
-            branch: output
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
