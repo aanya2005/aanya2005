@@ -9,16 +9,20 @@
 </p>
 
 <div align="left">
-  <a href="mailto:aanyaa2@uci.edu" target="_blank">
+  <a href="mailto:aanyaa2@uci.edu">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=161b22&logoColor=39d353&labelColor=161b22&style=for-the-badge" height="32" alt="email" />
   </a>
 
-  <a href="https://www.linkedin.com/in/aanya-agrawal-uci-cs/" target="_blank">
+  <a href="https://www.linkedin.com/in/aanya-agrawal-uci-cs/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=161b22&logoColor=39d353&labelColor=161b22&style=for-the-badge" height="32" alt="linkedin" />
   </a>
 
-  <a href="https://github.com/aanya2005" target="_blank">
+  <a href="https://github.com/aanya2005">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=161b22&logoColor=39d353&labelColor=161b22&style=for-the-badge" height="32" alt="github" />
+  </a>
+
+  <a href="https://aanya-portfolio-two.vercel.app/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=161b22&logoColor=39d353&labelColor=161b22&style=for-the-badge" height="32" alt="portfolio" />
   </a>
 </div>
 
@@ -44,5 +48,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/aanya2005/aanya2005/output/snake.svg" alt="Snake animation" />
-
-###
