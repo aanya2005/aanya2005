@@ -1,37 +1,34 @@
-<div align="center">
+<h1 align="left">Aanya; Attempting to create useful software 💝</h1>
 
-<img src="./art/background.svg" width="100%" alt="Aanya Agrawal animated header" />
+###
 
-<br/>
-
-Computer Science + Business Information Management @ UC Irvine
-
-Building thoughtful software across full-stack systems, AI, and product.
-
-LinkedIn ·Email ·GitHub
-
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=pronsh&logo=discord&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mailto:priyanshpokemon@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/priyansh-shah-569b3b224/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
-currently
+###
 
-building full-stack + AI systems
+<img align="right" height="150" src="https://media1.tenor.com/m/kmlCV9K986IAAAAC/l-death-note.gif"  />
 
-contributing to open source
+###
 
-leading CareTech @ UCI
 
-exploring backend, ML, and product
+<h3 align="left">Fun Facts!</h3>
 
-stack
+- 🌱 Looking for Research Opportunities!
+- 🦋 Nature lover!
+- 👀 Always willing to help!
+- 👨‍💻 Need to decrease my screentime
 
-Python Java C++ TypeScript React Node.js PostgreSQL Docker AWS Git
 
-<div align="center">
+###
 
-<img src="https://raw.githubusercontent.com/aanya2005/aanya2005/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake" />
+<br clear="both">
 
-<br/><br/>
+<img src="https://raw.githubusercontent.com/Priyansh4444/Priyansh4444/output/snake.svg" alt="Snake animation" />
 
-<sub>building things that are useful, thoughtful, and scalable.</sub>
-
-</div>
+###
