@@ -1,292 +1,92 @@
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aanya2005/aanya2005/main/art/header-dark.png"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aanya2005/aanya2005/main/art/header-light.png"
-  />
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/aanya2005/aanya2005/main/art/header-light.png"
-    alt="Logo for Aanya A"
-  />
-</picture>
+<img src="https://raw.githubusercontent.com/aanya2005/aanya2005/main/art/header-light.png" width="100%" />
 
-<br/>
+# Hey, I'm Aanya 👋
 
-<h1>Hey there, I'm Aanya 👋</h1>
+### Software Engineer · AI Builder · Product Enthusiast
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&width=700&lines=Open+Source+Enthusiast!;Software+Engineer+%26+AI+Builder;Building+thoughtful+and+impactful+products;Always+learning%2C+creating%2C+and+growing"
-    alt="Animated typing introduction"
-  />
-</a>
+Building thoughtful products at the intersection of **software, AI, and people.**
 
-<br/><br/>
-
-<a href="https://github.com/aanya2005?tab=followers">
-  <img
-    src="https://img.shields.io/github/followers/aanya2005?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=C84B8F&color=EF93C4"
-    alt="GitHub followers"
-  />
-</a>
-&nbsp;
-<a href="https://github.com/aanya2005?tab=repositories&sort=stargazers">
-  <img
-    src="https://img.shields.io/github/stars/aanya2005?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=C84B8F&color=F8BBD0"
-    alt="GitHub stars"
-  />
-</a>
-&nbsp;
-<img
-  src="https://komarev.com/ghpvc/?username=aanya2005&label=Profile%20Views&style=for-the-badge&color=FF69B4"
-  alt="Profile views"
-/>
+<p>
+  <a href="https://github.com/aanya2005">
+    <img src="https://img.shields.io/badge/GitHub-C84B8F?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aanya-agrawal-uci-cs/">
+    <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aanyaa2@uci.edu">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## About Me
+
+I'm a **Computer Science & Business Information Management student at UC Irvine** who loves turning ideas into useful products.
+
+- 💻 Software engineering & full-stack development
+- 🤖 AI, LLMs & intelligent systems
+- 🔐 Security & cloud infrastructure
+- 🎨 Product design & user experiences
+- 🌱 Open source & continuous learning
+
+I'm also the **Founder & Co-President of CareTech**, where I lead a team building technology at the intersection of AI and healthcare.
+
+> *Turning curiosity into code and ideas into meaningful products.*
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-## ✨ About Me
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,rust,react,nodejs,fastapi,tensorflow,postgres,mongodb,aws,azure,docker,kubernetes,git,github,linux,figma&perline=10" />
 
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
+---
 
-### Hi, I'm Aanya!
+## What I'm Building
 
-💻 I’m a **software engineer and AI enthusiast** passionate about building thoughtful, user-centered technology.
+### 🩺 CareTech
+Founder & Co-President · UC Irvine
 
-🌸 I’m an **open-source enthusiast** who enjoys contributing to meaningful projects and learning from developer communities.
+Building AI-powered healthcare technology with a multidisciplinary student team, from product ideation and design to development and deployment.
 
-🤖 I’m interested in **artificial intelligence, machine learning, NLP, large language models, and prompt engineering**.
+### 🤖 Agentic AI
+Exploring multi-agent systems, LLMs, prompt engineering, and AI-powered workflows for real-world business problems.
 
-🌐 I enjoy creating **full-stack applications, AI-powered workflows, and intuitive digital experiences**.
+### 🔬 Research
+Researching how students interact with and perceive AI in computer science education, with work presented at academic conferences.
 
-🛠️ I work across software engineering, product design, cloud infrastructure, and applied AI.
+---
 
-🌱 I’m currently growing my skills in **open-source development, cloud technologies, deep learning, and scalable system design**.
-
-🤝 I’m open to collaborating on **open-source, AI, machine-learning, and social-impact projects**.
-
-📫 Reach me at **aanyaa2@uci.edu**.
-
-<br/>
-
-> Turning curiosity into code and ideas into meaningful products.
-
-  </td>
-  <td width="35%" align="center" valign="middle">
-    <a href="https://github.com/aanya2005">
-      <img
-        width="250"
-        src="https://github.com/aanya2005.png"
-        alt="Aanya's GitHub profile picture"
-      />
-    </a>
-  </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## GitHub
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
-<img
-  src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,react,nodejs,tensorflow,git,github,docker,kubernetes,linux,aws,azure,postgres,mysql,mongodb,vscode,figma,notion&perline=11&theme=dark"
-  alt="Aanya's technical skills"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aanya2005&theme=radical" width="90%" />
 
 <br/><br/>
 
-<img
-  src="https://img.shields.io/badge/CI%2FCD-C84B8F?style=for-the-badge&logo=githubactions&logoColor=white"
-  alt="CI/CD"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/LLMs-EF93C4?style=for-the-badge&logo=openai&logoColor=white"
-  alt="Large Language Models"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/Prompt%20Engineering-FF69B4?style=for-the-badge&logo=openai&logoColor=white"
-  alt="Prompt Engineering"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/NLP-C84B8F?style=for-the-badge&logo=huggingface&logoColor=white"
-  alt="Natural Language Processing"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=aanya2005&show_icons=true&hide_border=true&theme=radical&rank_icon=github" width="48%" />
 
-<br/><br/>
-
-<img
-  src="https://img.shields.io/badge/Scikit--Learn-EF93C4?style=for-the-badge&logo=scikitlearn&logoColor=white"
-  alt="Scikit-Learn"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/Deep%20Learning-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white"
-  alt="Deep Learning"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/NoSQL-C84B8F?style=for-the-badge&logo=mongodb&logoColor=white"
-  alt="NoSQL"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aanya2005&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-## 📊 GitHub Analytics
+### Let's build something meaningful ✨
 
-<img
-  width="90%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aanya2005&theme=radical"
-  alt="Aanya's GitHub profile summary"
-  loading="lazy"
-/>
-
-<br/><br/>
-
-<img
-  width="44%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aanya2005&theme=radical"
-  alt="Aanya's repositories by language"
-  loading="lazy"
-/>
-&nbsp;
-<img
-  width="44%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aanya2005&theme=radical"
-  alt="Aanya's most committed languages"
-  loading="lazy"
-/>
-
-<br/><br/>
-
-<img
-  width="44%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aanya2005&theme=radical"
-  alt="Aanya's GitHub statistics"
-  loading="lazy"
-/>
-&nbsp;
-<img
-  width="44%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aanya2005&theme=radical&utcOffset=-7"
-  alt="Aanya's productive coding time"
-  loading="lazy"
-/>
-
-<br/><br/>
-
-<img
-  width="75%"
-  src="https://streak-stats.demolab.com?user=aanya2005&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4"
-  alt="Aanya's GitHub contribution streak"
-  loading="lazy"
-/>
-
-<br/><br/>
-
-<img
-  width="98%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=aanya2005&bg_color=141321&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=EF93C4&hide_border=true&custom_title=Contribution%20Activity"
-  alt="Aanya's GitHub contribution activity graph"
-  loading="lazy"
-/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aanya2005/aanya2005/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aanya2005/aanya2005/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/aanya2005/aanya2005/output/github-contribution-grid-snake.svg"
-    alt="Aanya's contribution snake animation"
-  />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/aanya-agrawal-uci-cs/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-C84B8F?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-&nbsp;
-<a href="https://github.com/aanya2005">
-  <img
-    src="https://img.shields.io/badge/GitHub-EF93C4?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-&nbsp;
-<a href="mailto:aanyaa2@uci.edu">
-  <img
-    src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<br/><br/>
-
-### 💖 Thanks for visiting my profile!
-
-<i>Let’s connect, collaborate, and create something meaningful.</i>
-
-<br/><br/>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:F8BBD0,50:EF93C4,100:FF69B4"
-  alt="Pink waving footer"
-/>
+<a href="mailto:aanyaa2@uci.edu">Email</a> ·
+<a href="https://www.linkedin.com/in/aanya-agrawal-uci-cs/">LinkedIn</a> ·
+<a href="https://github.com/aanya2005">GitHub</a>
 
 </div>
