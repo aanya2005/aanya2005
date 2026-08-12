@@ -1,0 +1,108 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="260" fill="#0d1117"/>
+
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- subtle grid -->
+  <g stroke="#30363d" stroke-width="1" opacity="0.16">
+    <line x1="0" y1="65" x2="1200" y2="65"/>
+    <line x1="0" y1="130" x2="1200" y2="130"/>
+    <line x1="0" y1="195" x2="1200" y2="195"/>
+    <line x1="200" y1="0" x2="200" y2="260"/>
+    <line x1="400" y1="0" x2="400" y2="260"/>
+    <line x1="600" y1="0" x2="600" y2="260"/>
+    <line x1="800" y1="0" x2="800" y2="260"/>
+    <line x1="1000" y1="0" x2="1000" y2="260"/>
+  </g>
+
+  <!-- slow-moving lines -->
+  <g fill="none" stroke="#8b949e" stroke-width="1" opacity="0.14">
+    <path d="M-120 74 C180 28 350 118 620 76 S1030 40 1320 84">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 28 0; 0 0" dur="14s" repeatCount="indefinite"/>
+    </path>
+    <path d="M-80 192 C160 146 360 222 630 184 S1050 150 1280 196">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; -22 0; 0 0" dur="17s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- particles -->
+  <g fill="#8b949e">
+    <circle cx="105" cy="58" r="2" opacity="0.36">
+      <animate attributeName="cx" values="105;128;105" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="58;48;58" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.22;0.5;0.22" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="235" cy="172" r="1.8" opacity="0.32">
+      <animate attributeName="cx" values="235;218;235" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="172;185;172" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.18;0.42;0.18" dur="8s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="390" cy="91" r="1.7" opacity="0.28">
+      <animate attributeName="cx" values="390;408;390" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="91;103;91" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.16;0.38;0.16" dur="6.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="815" cy="82" r="1.9" opacity="0.33">
+      <animate attributeName="cx" values="815;834;815" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="82;69;82" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.45;0.2" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="965" cy="168" r="1.6" opacity="0.28">
+      <animate attributeName="cx" values="965;948;965" dur="10.5s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="168;180;168" dur="10.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.18;0.4;0.18" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1095" cy="66" r="2" opacity="0.31">
+      <animate attributeName="cx" values="1095;1073;1095" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="66;77;66" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.18;0.44;0.18" dur="8.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- accent particles -->
+  <g fill="#f778ba" filter="url(#glow)">
+    <circle cx="470" cy="56" r="2.1" opacity="0.52">
+      <animate attributeName="cx" values="470;484;470" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="56;49;56" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.28;0.62;0.28" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="742" cy="196" r="1.8" opacity="0.46">
+      <animate attributeName="cx" values="742;728;742" dur="12.5s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="196;187;196" dur="12.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.24;0.56;0.24" dur="7.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- center text -->
+  <text x="600" y="118" text-anchor="middle"
+        fill="#f0f6fc" font-size="44" font-family="Arial, Helvetica, sans-serif"
+        font-weight="700" letter-spacing="0.4">
+    Aanya Agrawal
+  </text>
+
+  <text x="600" y="154" text-anchor="middle"
+        fill="#8b949e" font-size="16" font-family="Arial, Helvetica, sans-serif"
+        letter-spacing="1.2">
+    SOFTWARE · AI · OPEN SOURCE
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="806" y="91" width="3" height="34" rx="1.5" fill="#f778ba" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.25s" repeatCount="indefinite"/>
+  </rect>
+</svg>
