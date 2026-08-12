@@ -1,34 +1,48 @@
-<h1 align="left">Aanya; Attempting to create useful software 💝</h1>
+<h1 align="left">hi, i'm aanya ♡</h1>
 
-###
+<p align="left">
+  software engineer · ai builder · open source enthusiast
+</p>
+
+<p align="left">
+  attempting to build useful software and make the internet a little nicer ✦
+</p>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=pronsh&logo=discord&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="mailto:priyanshpokemon@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/priyansh-shah-569b3b224/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="mailto:aanyaa2@uci.edu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=161b22&logoColor=39d353&labelColor=161b22&style=for-the-badge" height="32" alt="email" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/aanya-agrawal-uci-cs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=161b22&logoColor=39d353&labelColor=161b22&style=for-the-badge" height="32" alt="linkedin" />
+  </a>
+
+  <a href="https://github.com/aanya2005" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=161b22&logoColor=39d353&labelColor=161b22&style=for-the-badge" height="32" alt="github" />
+  </a>
 </div>
 
-###
+<br>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/kmlCV9K986IAAAAC/l-death-note.gif"  />
+<img align="right" height="165" src="./art/cute-coder.gif" alt="Aanya coding and drinking matcha" />
 
-###
+### currently.exe
 
+- 🌱 building full-stack + AI systems
+- 🧠 exploring LLMs, backend, and intelligent products
+- 🌿 contributing to open source
+- 🩺 leading CareTech @ UCI
+- ☕ probably debugging something that worked 5 minutes ago
 
-<h3 align="left">Fun Facts!</h3>
+### little things
 
-- 🌱 Looking for Research Opportunities!
-- 🦋 Nature lover!
-- 👀 Always willing to help!
-- 👨‍💻 Need to decrease my screentime
-
-
-###
+- ♡ i like building things people actually use
+- ✦ product + engineering is my favorite combo
+- 🐛 i weirdly enjoy debugging
+- 🌙 late-night coding > early mornings
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Priyansh4444/Priyansh4444/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aanya2005/aanya2005/output/snake.svg" alt="Snake animation" />
 
 ###
